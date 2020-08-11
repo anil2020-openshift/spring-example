@@ -12,7 +12,7 @@ public class SpringExampleApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome to java techie: Openshift4";
+		return "Welcome to java techie: Openshift5";
 	}
 
 	@GetMapping("/{input}")
